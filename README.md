@@ -1,6 +1,7 @@
 EEG Analysis and Connectivity Calculation
 
 This repository contains code for analyzing EEG data, calculating power spectral density (PSD), computing connectivity between electrodes, and visualizing the results. The code is written in Python and utilizes various libraries such as MNE, NumPy, Pandas, and Matplotlib.
+
 Table of Contents
 
     Introduction
