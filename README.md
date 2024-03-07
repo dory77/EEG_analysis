@@ -15,6 +15,7 @@ Table of Contents
 Introduction
 
 Electroencephalography (EEG) is a non-invasive technique used to record electrical activity in the brain. This project aims to analyze EEG data and extract useful information regarding power spectral density and connectivity between different brain regions.
+
 Requirements
 
 To run the code in this repository, you need to have the following dependencies installed:
