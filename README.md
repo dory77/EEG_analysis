@@ -73,7 +73,3 @@ plot_heatmap(connectivity_df, 'Theta', 1)
 Contributing
 
 Contributions to this project are welcome. You can contribute by opening issues, suggesting improvements, or submitting pull requests.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
