@@ -441,11 +441,6 @@ gamma_del_scz_df = connectivity_calculator(gamma_conn_del_scz_df)
 #%%
 
 
-
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
-
 # Assuming you have four dataframes: df1, df2, df3, df4
 dataframes = [delta_del_scz_df, theta_del_scz_df, alpha_del_scz_df, beta_del_scz_df,gamma_del_scz_df]
 
