@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 15 15:58:29 2024
-
-@author: anton
 """
 
 from pycrostates.metrics import silhouette_score, calinski_harabasz_score, dunn_score, davies_bouldin_score
